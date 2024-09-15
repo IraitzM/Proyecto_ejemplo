@@ -19,7 +19,8 @@ RUN mkdir /src/model
 ADD ./model /src/model
 
 # Ejecutamos el comando para lanzar la API
-CMD ["streamlit", "run", "app.py"]
+#CMD ["streamlit", "run", "app.py"]
+CMD ["fastapi", "run", "api.py"]
 
 # Exponemos el puerto del backend
-EXPOSE 8501
+EXPOSE 8000

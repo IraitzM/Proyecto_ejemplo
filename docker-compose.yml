@@ -1,6 +1,6 @@
 version: '2'
 services:
-    webiris:
+    apiiris:
         build: .
         ports: 
-            - "8501:8501"
+            - "8000:8000"

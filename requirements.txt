@@ -7,3 +7,4 @@ python-dotenv
 comet_ml
 streamlit
 seaborn
+fastapi[standard]

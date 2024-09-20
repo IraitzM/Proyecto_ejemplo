@@ -1,4 +1,4 @@
-# Proyecto ejemplo.
+# Proyecto ejemplo
 
 Proyecto ejemplo para el final de módulo de ML en The Bridge. La idea es que este proyecto sirva como base para las últimas acciones del bootcamp.
 
